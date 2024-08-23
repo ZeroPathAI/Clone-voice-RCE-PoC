@@ -1,5 +1,5 @@
 # Clone-Voice RCE Proof of Concept
-This repository contains a Proof of Concept (PoC) script demonstrating a RCE vulnerability in Clone-Voice. **This tool is for educational and authorized testing purposes only.**
+This repository contains a Proof of Concept (PoC) script demonstrating a [RCE vulnerability in Clone-Voice](https://zeropath.com/blog/command-injection-vulnerability-clone-voice). **This tool is for educational and authorized testing purposes only.**
 
 ## Usage
 ### Reverse Shell
